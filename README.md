@@ -3,7 +3,7 @@
 
 - 🔭Atualmente estou procurando um estágio na área de Ti
 - 📚 Cursando análise e desenvolvimento de sistemas
-- 🌱 Estudando linguagens e frameworks front-end
+- 🌱 Estudando java e seus frameworks
 - 📫 Contato: lucas.machadoborba2@gmail.com
 - ⚡ Curiosidade: Sou muito ligado e apaixonado por tecnologia desde os 14 anos
 
