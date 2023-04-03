@@ -1,7 +1,7 @@
 ## Olá mundo! Eu sou o Lucas! 👋
 
 
-- 🔭Atualmente estou procurando um estágio na área de Ti
+- 🔭Atualmente estou procurando um estágio na área de Desenvolvimento Java
 - 📚 Cursando análise e desenvolvimento de sistemas
 - 🌱 Estudando java e seus frameworks
 - 📫 Contato: lucas.machadoborba2@gmail.com
